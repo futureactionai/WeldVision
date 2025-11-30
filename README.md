@@ -116,9 +116,17 @@ All points on the skeleton are projected onto this line to find the true endpoin
 
 ## 🛠️ Example Output
 
-**Annotated seam line:**
+A few real examples from the WeldVision system detecting weld seam lines:
 
-(See green line representing the detected weld seam)
+<p align="center">
+  <img src="images/output1.jpg" width="600">
+</p>
+
+<p align="center">
+  <img src="images/output2.jpg" width="600">
+</p>
+
+*Green line represents the automatically detected weld seam axis.*
 
 ---
 
