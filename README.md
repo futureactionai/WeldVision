@@ -72,10 +72,8 @@ WeldVision/
 Place this file into:
 ```
 Windows:
-C:\Users\<USERNAME>\AppData\Local\AugeLab\custom_blocks\
+C:\Users\<USERNAME>\AppData\\Roaming\AugeLab Studio\marketplace\custom_blocks\
 
-Linux:
-~/.local/share/AugeLab/custom_blocks/
 ```
 
 AugeLab will auto-detect it after restarting.
